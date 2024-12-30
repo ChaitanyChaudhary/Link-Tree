@@ -15,8 +15,8 @@ export const links = [
         image: "/assets/github.png"
     },
     {
-        name: "Other",
-        link: "https://www.other.com/chaitanychaudhary/",
+        name: "Portfolio",
+        link: "#",
         image: "/assets/linkedin.png"
     },
 ];
