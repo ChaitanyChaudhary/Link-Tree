@@ -17,6 +17,6 @@ export const links = [
     {
         name: "Portfolio",
         link: "#",
-        image: "assets/linkedin.png"
+        image: "assets/profile.jpg"
     },
 ];
