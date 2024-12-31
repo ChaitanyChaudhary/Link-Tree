@@ -80,7 +80,7 @@ Update `js/links.js` to add or modify links. Each link follows this structure:
 
 ## License
 
-This project is licensed under the [MIT](https://choosealicense.com/licenses/mit/) License. Feel free to use and modify it for your own purposes.
+This project is licensed under the [MIT](https://github.com/ChaitanyChaudhary/Link-Tree/blob/main/LICENSE) License. Feel free to use and modify it for your own purposes.
 
 ---
 
