@@ -1,5 +1,10 @@
 export const links = [
     {
+        name: "Portfolio",
+        link: "https://chaitanysportfolio1.odoo.com/",
+        image: "assets/portfolio.png"
+    },
+    {
         name: "Linkedin",
         link: "https://www.linkedin.com/in/chaitanychaudhary/",
         image: "assets/linkedin.png"
@@ -13,10 +18,5 @@ export const links = [
         name: "GitHub",
         link: "https://github.com/ChaitanyChaudhary/",
         image: "assets/github.png"
-    },
-    {
-        name: "Portfolio",
-        link: "https://chaitanysportfolio1.odoo.com/",
-        image: "assets/portfolio.png"
     },
 ];
