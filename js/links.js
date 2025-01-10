@@ -1,7 +1,7 @@
 export const links = [
     {
         name: "Portfolio",
-        link: "https://chaitanysportfolio1.odoo.com/",
+        link: "https://www.chaitanysportfolio.com/",
         image: "assets/portfolio.png"
     },
     {
